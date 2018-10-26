@@ -15,3 +15,4 @@ W to move forward
 left mouse / right mouse to fire lasers, see what happens!
 
 # Screenshots
+![screen shot](https://raw.githubusercontent.com/AmesingFlank/Computer_Graphics_Lab1/master/Screenshots/Screeshot.png)
